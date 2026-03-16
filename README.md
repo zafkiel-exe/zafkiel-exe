@@ -1,3 +1,13 @@
+
+────────────────────────
+
+```console
+system booting...
+user: zafkiel-exe
+status: online
+mode: experimental
+```
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00ff00&height=2"/>
 
 About me:
