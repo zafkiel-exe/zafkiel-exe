@@ -1,4 +1,4 @@
-────────────────────────────────
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00ff00&height=2"/>
 
 About me:
 
@@ -7,7 +7,7 @@ I like building random things on the internet, experimenting with code and explo
 currently learning logic and programming while creating small projects to test new concepts.
 I don't aspire to be an amazing programmer, I just enjoy creating things :p
 
-────────────────────────────────
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00ff00&height=2"/>
 
 Currently focusing:
 
@@ -16,7 +16,7 @@ Currently focusing:
 [ web projects ]
 [ automation and tools ]
 
-────────────────────────────────
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00ff00&height=2"/>
 
 Technologies:
 
@@ -25,7 +25,7 @@ css
 javascript
 git
 
-────────────────────────────────
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00ff00&height=2"/>
 
 Projects:
 
@@ -38,10 +38,10 @@ Unity Developer games
 
 ・Streaming application
 
-────────────────────────────────
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00ff00&height=2"/>
 
 Philosophy
 
 "Build things, break things, learn from the chaos."
 
-────────────────────────────────
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00ff00&height=2"/>
