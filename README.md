@@ -1,10 +1,6 @@
-ZAFKIEL 
-
-«code · internet culture · experiments»
-
 ────────────────────────────────
 
-about
+About me:
 
 I like building random things on the internet, experimenting with code and exploring how simple ideas can turn into interactive projects.
 
@@ -13,7 +9,7 @@ I don't aspire to be an amazing programmer, I just enjoy creating things :p
 
 ────────────────────────────────
 
-focus
+Currently focusing:
 
 [ scripts ]
 [ experimental interfaces (of websites and games) ]
@@ -22,7 +18,7 @@ focus
 
 ────────────────────────────────
 
-technologies
+Technologies:
 
 html
 css
@@ -31,18 +27,21 @@ git
 
 ────────────────────────────────
 
-projects
+Projects:
 
-"Infinity Blade" game 2017-2021 (Over 5 million visits)
-interactive menu experiments 
+・"Infinity Blade" game 2017-2021 (Over 5 million visits)
+
+・Interactive menu experiments 
 Unity Developer games 
-small web utilities
-streaming application
+
+・Small web utilities
+
+・Streaming application
 
 ────────────────────────────────
 
-philosophy
+Philosophy
 
-"build things, break things, learn from the chaos."
+"Build things, break things, learn from the chaos."
 
 ────────────────────────────────
