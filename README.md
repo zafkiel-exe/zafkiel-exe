@@ -1,11 +1,9 @@
-
-────────────────────────
-
 ```console
 system booting...
 user: zafkiel-exe
 status: online
 mode: experimental
+18/07/2016
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00ff00&height=2"/>
@@ -55,3 +53,7 @@ Philosophy
 "Build things, break things, learn from the chaos."
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00ff00&height=2"/>
+
+<p align="center">
+<a href="https://instagram.com/zafkiel.exe">instagram.com/zafkiel.exe</a>
+</p>
